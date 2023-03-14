@@ -1,0 +1,15 @@
+
+
+.shadow{
+    width: 10.06rem /* 1006/100 */;
+    height: auto;
+    box-sizing: border-box;
+    border-radius: .50rem /* 16/100 */;
+    box-shadow: 1rem rgb(0, 0, 0) /* 30/100 */
+}
+
+
+
+
+
+
